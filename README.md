@@ -5,7 +5,9 @@ Expo spotlight talk at Esri User Conference 2025 on how to use the open-source [
 
 ---
 
-## 📦 Demos
+## 📦 Demos and Slides
+
+- **Slides**: [Using_ArcGIS_REST_JS.pdf](https://github.com/user-attachments/files/21301822/Using_ArcGIS_REST_JS.pdf)
 
 - **Node.js Server Example:** [View Node.js Demo](https://github.com/cyatteau/geoenrichment-population-demo)
 
